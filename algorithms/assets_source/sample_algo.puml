@@ -1,0 +1,11 @@
+@startuml
+title "Sample Algorithm Representation"
+
+rectangle Input
+rectangle Algorithm
+rectangle Output
+
+Input -> Algorithm
+Algorithm -> Output
+
+@enduml

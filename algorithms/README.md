@@ -1,6 +1,7 @@
 # Algorithms Knowledge Base
 
-This is a collection of useful information and notes about algorithms. It's a personal knowledge base.
+This is a collection of useful information and notes about algorithms. It's a personal
+knowledge base.
 
 ## Introduction
 

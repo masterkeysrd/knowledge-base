@@ -75,9 +75,21 @@ integers. Rational numbers are denoted by $ \mathbb{Q} $.
 
 $ \mathbb{Q} = \{\frac{p}{q} | p, q \in \mathbb{Z}, q \neq 0\} $
 
+Examples:
+
+* $ \frac{1}{2} $ is a rational number.
+* $ \frac{3}{4} $ is a rational number.
+* $ \frac{5}{6} $ is a rational number.
+
 Rational numbers can be expressed as decimals that either terminate or repeat.
 To those decimals that terminates are called "terminating decimals" and those
 repeating in a pattern are called "repeating decimals".
+
+Examples:
+
+* $ \frac{1}{2} = 0.5 $ is a terminating decimal.
+* $ \frac{1}{3} = 0.333\ldots $ is a repeating decimal.
+* $ \frac{1}{6} = 0.1666\ldots $ is a repeating decimal.
 
 > To decimal number be rational, it must be either terminating or repeating and
 > must be able to be expressed as a fraction of two integers.

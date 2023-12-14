@@ -8,3 +8,4 @@ some notes on the problems.
 ### LeetCode
 
 1. [Two Sum](./1_two_sum/README.md)
+1. [Add Two Numbers](./2_add_two_numbers/README.md)
